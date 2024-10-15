@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">A backend developer based in Singapore</h3>
 
-- 📖 Currently studying at 42 Singapore [42 Singapore](https://www.42singapore.sg/)
-
-- 📫 How to reach me **akolganova24@gmail.com**
+<br>
 
 - 💬 Ask me about **Python/Django and Docker**
+- 📫 How to reach me **akolganova24@gmail.com**
+- 📖 Currently studying at 42 Singapore [42 Singapore](https://www.42singapore.sg/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
